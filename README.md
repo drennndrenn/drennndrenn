@@ -45,7 +45,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=drennndrenn&theme=dark)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drennndrenn/drennndrenn/pacman-output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drennndrenn/drennndrenn/pacman-output/bomberman-contribution-graph.svg">
