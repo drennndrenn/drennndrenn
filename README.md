@@ -4,15 +4,30 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👋 About Me</h3>
 
 ###
 
-<p align="left">Hey there! I'm Aldren 👋<br><br>🔭 Working as a Frontend Developer<br><br>📚 Learning Machine Learning one model at a time<br><br>☕ Building interfaces, solving problems, and occasionally breaking things<br><br>⚡ My favorite hobby? Sleeping 😴</p>
+<p align="left">Hi, I'm Aldren!<br><br>
+🎓 Full-stack developer, currently building a mobile road hazard detection system for Davao City as my thesis project<br><br>
+🔭 Working as a Frontend Developer<br><br>
+📚 Deep in Machine Learning — training and fine-tuning detection models<br><br>
+☕ I like clean interfaces, solving real problems, and (occasionally) breaking things to learn how they work<br><br>
+⚡ Fun fact: my favorite hobby is sleeping 😴</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">📌 Featured Project</h3>
+
+###
+
+<p align="left">
+🛣️ <b>Road Hazard Detection App</b> — A mobile app that uses YOLO-based object detection to identify road hazards (potholes, debris, etc.) in real time, built to improve road safety awareness in Davao City. Built with a full ML pipeline + mobile frontend, developed with a team through a full panel-review process.
+</p>
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -42,7 +57,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
@@ -51,5 +66,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drennndrenn/drennndrenn/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/drennndrenn/drennndrenn/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-###
